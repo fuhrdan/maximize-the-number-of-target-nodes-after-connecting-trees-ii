@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximize-the-number-of-target-nodes-after-connecting-trees-ii", "maximize-the-number-of-target-nodes-after-connecting-trees-ii.csproj", "{A0DEDEFA-6690-D616-7956-6EB0C2FD5E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DEDEFA-6690-D616-7956-6EB0C2FD5E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DEDEFA-6690-D616-7956-6EB0C2FD5E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DEDEFA-6690-D616-7956-6EB0C2FD5E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DEDEFA-6690-D616-7956-6EB0C2FD5E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD57799-6950-470B-8562-BCABB4B2C122}
+	EndGlobalSection
+EndGlobal
